@@ -1,0 +1,5 @@
+data_full.json
+__pycache__/
+**/MNIST
+**/CIFAR10
+*.pkl
